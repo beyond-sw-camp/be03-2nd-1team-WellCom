@@ -1,1 +1,2 @@
-# be03-2nd-1team-WellCom
+Well-Com
+리드미 차후 수정예정
